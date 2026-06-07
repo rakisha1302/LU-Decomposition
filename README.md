@@ -69,10 +69,10 @@ print(result)
 ```
 
 ## Output:
-<img width="1321" height="572" alt="image" src="https://github.com/user-attachments/assets/85225c69-be9d-4ff0-9131-224be3445c17" />
+<img width="1790" height="902" alt="image" src="https://github.com/user-attachments/assets/c6040c92-bdd9-4405-ab6e-59336df9a3a0" />
 
-**<img width="1300" height="330" alt="image" src="https://github.com/user-attachments/assets/85d38779-bf3b-4f05-9e2c-8a0943266470" />
-**
+
+<img width="1522" height="916" alt="image" src="https://github.com/user-attachments/assets/a6b4a087-029c-482c-8127-1dc663391691" />
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
